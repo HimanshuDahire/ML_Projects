@@ -47,3 +47,5 @@ Antecedent ---> Consequent [support,confidence, lift...]
 ```Python```
 
 The Codes regarding this Association Rules with its datasets Groceries, Book are present in this Repository in detail
+
+The folder also has deployment part separately in another python file.
