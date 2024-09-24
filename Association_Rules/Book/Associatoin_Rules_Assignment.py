@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-> Name: Himanshu Dahire
-
-> Batch_ID: Data_Science_05092024_10AM(PDS_23072024)
 ### 1. Business Problem
 
 - Business Problem:
