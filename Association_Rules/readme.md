@@ -33,6 +33,24 @@ Antecedent ---> Consequent [support,confidence, lift...]
   4. Use list of 2-item sets to generate list of 3-item sets that meet support criteria
   5.continue up to K-item sets
 ```
+## Support, Confidence and Lift
+
+Support:
+```
+  Apriori Algorithm defines rules based on "Support" as measurement metric.
+  It is a criteria based on frequency, this doesn't represent any associatoin.
+```
+Confidence:
+```
+  To cover Support drawback, "Confidence" metric is introduces.
+  It tells conditional probablity of occurance of consequent given that antecent has occured.
+  But it can be biased when support for some rule is high.
+```
+Lift:
+```
+  Finally "Lift" is used as more robust mrtric to justify the importnace of rule.
+  It is the ratio of Confidence to Benchmark Confidence (Confidence with indepent probablity of occurance).
+```
 
 ## How to clean these rules ?
 ```
