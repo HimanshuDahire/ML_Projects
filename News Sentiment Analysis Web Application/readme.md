@@ -2,8 +2,6 @@
 
 A Streamlit web application that scrapes news articles based on user queries and performs sentiment analysis using natural language processing techniques.
 
-![News Sentiment Analysis App](https://raw.githubusercontent.com/username/news-sentiment-analysis/main/app_screenshot.png)
-
 ## Features
 
 - **Real-time News Scraping**: Fetch recent news articles on any topic using Google News search
@@ -16,7 +14,7 @@ A Streamlit web application that scrapes news articles based on user queries and
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.13.3
 - **Streamlit**: For the web application interface
 - **Selenium**: For automated web browsing and scraping
 - **BeautifulSoup4**: For HTML parsing
